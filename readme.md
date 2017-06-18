@@ -25,3 +25,9 @@ echo "# RESTfulBlogApp" >> README.md
 
 git remote add origin https://github.com/yuttana76/RESTfulBlogApp.git
   git push -u origin master
+
+
+#Blog: #Basic layou
+-Add Header and Footer Partials
+-Include semantic UI
+-Add simple NAV
